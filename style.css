@@ -1,0 +1,39 @@
+header {
+    background-color: gray;
+}
+
+body {
+    background-color: wheat;
+}
+
+img {
+    padding: 10px;
+    padding-left: 40px;
+}
+
+#fecha {
+    padding-left: 1100px;
+}
+
+#titulo {
+    font-size: 3em;
+}
+
+h3 {
+    color: green;
+    text-decoration-style: solid;
+}
+
+h5 {
+    color: red;    
+}
+
+footer {
+    height: 80px;
+    background-color: black;
+}
+
+#footer {
+    padding: 30px;
+    color: white;
+}
